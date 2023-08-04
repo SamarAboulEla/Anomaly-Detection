@@ -2,7 +2,7 @@
 
 1. Project Title:
    
-  Network Intrusion detection using neural networks
+  Network Intrusion Detection using Neural Networks
 
 
 2. Problem statement:
@@ -13,8 +13,3 @@
    
   Intrusion Detection Evaluation Dataset (CIC-IDS2017)
  
-4. Models:
-   
-  Multi-Layer Perceptron, Generative Adversarial Networks
-
-
